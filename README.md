@@ -1,20 +1,19 @@
 # 👋 Hi, I'm Rodney Ducay
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Junior%20Web%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=160&section=header&text=Rodney%20Ducay&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-### Junior Web Developer | Laravel & PHP Developer
+### Laravel & PHP Developer | Cebu, Philippines
 
-Building better web solutions, one commit at a time.
+I build web apps with Laravel, Filament and MySQL. Right now I'm working on [current project, one sentence].
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently developing my skills in Laravel and PHP.
-- 💻 Interested in backend and full-stack web development.
-- 🚀 Exploring Laravel, Filament, MySQL and JavaScript.
-- 🤝 Learning and contributing to open-source projects.
-- 📍 Based in the Philippines.
+- 🌱 Currently deepening my skills in Laravel, Filament and JavaScript
+- 💻 Aiming for backend and full-stack web development
+- 🔍 Exploring open-source projects from [Liberu Software](https://github.com/liberusoftware)
+- 📍 Based in the Philippines
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -24,49 +23,28 @@ Building better web solutions, one commit at a time.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🚀 My Personal Projects
+## 🚀 Featured Projects
 
-These are my independent development projects.
+- **[Project name](https://github.com/rodney93/REPO)** – One sentence on what it does. *Laravel, MySQL*
+- **[Project name](https://github.com/rodney93/REPO)** – One sentence on what it does. *Laravel, Filament*
+- **[Project name](https://github.com/rodney93/REPO)** – One sentence on what it does. *JavaScript*
 
-- **Personal Portfolio** – Add your portfolio repository link here.
-- **Independent Laravel Projects** – Add your own Laravel projects here.
-- **Web Applications** – Add your independent applications here.
+## 🌐 Open Source
 
-## 🌐 Open-Source Contributions
+I keep forks of [Liberu Software](https://github.com/liberusoftware) projects (Laravel, e-commerce, genealogy) to study how they're built.
 
-### Liberu Software
+📂 [Browse my forks](https://github.com/rodney93/liberu-forks-directory)
 
-I maintain personal forks of repositories from the Liberu Software GitHub organization.
+<!-- When you have a merged or open PR, add: "Pull requests: [PR title](link)" -->
 
-My Liberu Software forks are organized separately from my personal projects.
-
-📂 **[Explore My Liberu Forked Repositories](https://github.com/rodney93/liberu-forks-directory)**
-
-### Project Categories
-
-- Laravel Projects
-- E-Commerce Projects
-- Genealogy Projects
-- Other Liberu Software Projects
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodney93&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodney93&layout=compact&theme=tokyonight&hide_border=true)
-
-## 🔥 Contribution Streak
+## 📊 Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rodney93&theme=tokyonight&hide_border=true)
 
-## 📫 Connect With Me
+## 📫 Connect
 
-- GitHub: [github.com/rodney93](https://github.com/rodney93)
+- 💼 LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+- ✉️ Email: your@email.com
 
----
-
-⭐ Thank you for visiting my GitHub profile!
-
-![Profile Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer)
+![Profile Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=80&section=footer)
